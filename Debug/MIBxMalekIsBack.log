@@ -1,0 +1,7 @@
+﻿  Mini Project.cpp
+d:\uniten\mibxmalekisback\mibxmalekisback\mini project.cpp(411): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\uniten\mibxmalekisback\mibxmalekisback\mini project.cpp(411): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\uniten\mibxmalekisback\mibxmalekisback\mini project.cpp(411): note: the missing variadic argument 2 is required by format string '%c'
+  d:\uniten\mibxmalekisback\mibxmalekisback\mini project.cpp(411): note: this argument is used as a buffer size
+  MIBxMalekIsBack.vcxproj -> D:\UNITEN\MIBxMalekIsBack\MIBxMalekIsBack\Debug\MIBxMalekIsBack.exe
+  MIBxMalekIsBack.vcxproj -> D:\UNITEN\MIBxMalekIsBack\MIBxMalekIsBack\Debug\MIBxMalekIsBack.pdb (Full PDB)
